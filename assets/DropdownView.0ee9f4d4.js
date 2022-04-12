@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o,c as _,b as r}from"./index.00bd224b.js";const t={},n={class:"dropdown"},s=r("h1",null,"dropdown",-1),c=[s];function a(d,i){return o(),_("div",n,c)}var f=e(t,[["render",a]]);export{f as default};
